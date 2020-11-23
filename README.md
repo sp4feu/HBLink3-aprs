@@ -1,6 +1,8 @@
 ---
 
-# In this fork, APRS beaconing of peers is set on a per master configuration. Also, private-call-dev has been merged with master. Now with GPS decoding and APRS location reports for Anytone radios.
+# Moved to a different repository, see https://github.com/kf7eel/hblink3/tree/aprs_features for the fancy APRS stuff.
+
+### In this fork, APRS beaconing of peers is set on a per master configuration. Also, private-call-dev has been merged with master. Now with GPS decoding and APRS location reports for Anytone radios.
 
 This is my "flavor" of HBLink3 that I use in production. 
 
